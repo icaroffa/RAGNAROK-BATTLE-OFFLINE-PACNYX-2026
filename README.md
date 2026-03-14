@@ -526,6 +526,8 @@ review grouped animations visually after export
 
 keep exported metadata together with the image output for future tooling
 
+![Main Screen](pacnyx-2026.png)
+
 Credits
 Original PACNyx / PACNyx+ concept and core logic belong to the original authors and the reverse engineering community around Ragnarok Battle Offline.
 
