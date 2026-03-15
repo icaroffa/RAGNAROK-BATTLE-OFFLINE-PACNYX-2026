@@ -170,6 +170,10 @@ The current build now includes a much more powerful export workflow for DAT pose
   - `anchorCanvasY`
   - ordered frame list
 
+*TALES OF - VIBES* head size 75 x 75
+ ![Main Screen](ezgif-55c45a7ahfdghdbc79cf7a.gif)
+    
+
 ---
 
 ## Recommended workflow
