@@ -19,6 +19,10 @@ Full Custom character - MOD
 
 ![Main Screen](ezgif-25b7c7481c6b27cc.gif)
 
+![Main Screen](ezgif-75c72cf05b256d22.gif)
+
+
+
 ## Project intent
 
 This updated build was patched independently with a simple goal:
