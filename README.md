@@ -203,6 +203,12 @@ The current build now includes a much more powerful export workflow for DAT pose
 
 ![Main Screen](screenshot-5.png)
 
+
+Great modding possibilities and reallife sprite compositions-> 
+
+![Main Screen](screenshot-7.png)
+
+
 ## Export output structure
 
 A full DAT export may look like this:
