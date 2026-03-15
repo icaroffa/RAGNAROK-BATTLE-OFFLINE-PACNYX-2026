@@ -25,7 +25,7 @@ Full Custom character - MOD
 ![Main Screen](ezgif-24bd11e6e026308b.gif)
 
 
-
+ezgif-7b48hjfdgcaf7d110bbe0.gif
 
 
 ## Project intent
@@ -101,7 +101,13 @@ In other words, this work was done both as **maintenance** and as **creative inf
 
 ---
 
+
+
+
 ## 2026 patched build improvements
+
+![Main Screen](ezgif-7b48hjfdgcaf7d110bbe0.gif)
+
 
 This patched build focuses on **stability**, **quality-of-life improvements**, and **safer archive handling**.
 
