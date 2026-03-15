@@ -13,7 +13,7 @@ This document describes a **2026 AI-assisted community patch workflow** for PACN
 
 ![Main Screen](ezgif-2a8e0153805b1082.gif)
 
-![Main Screen](ezgif-2a8e0153805b1082.gif)
+![Main Screen](ezgif-24bd11e6e026308b.gif)
 
 ## Project intent
 
