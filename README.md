@@ -15,6 +15,10 @@ This document describes a **2026 AI-assisted community patch workflow** for PACN
 
 ![Main Screen](ezgif-24bd11e6e026308b.gif)
 
+Full Custom character - MOD
+
+![Main Screen](ezgif-25b7c7481c6b27cc.gif)
+
 ## Project intent
 
 This updated build was patched independently with a simple goal:
