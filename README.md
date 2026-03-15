@@ -197,6 +197,10 @@ The current build now includes a much more powerful export workflow for DAT pose
 
 ![Main Screen](screenshot-3.png)
 
+![Main Screen](screenshot-4.png)
+
+![Main Screen](screenshot-5.png)
+
 ## Export output structure
 
 A full DAT export may look like this:
