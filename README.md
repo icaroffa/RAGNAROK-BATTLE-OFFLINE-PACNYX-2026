@@ -193,7 +193,7 @@ The current build now includes a much more powerful export workflow for DAT pose
 
 ![Main Screen](pacnyx-2026.PNG)
 
-![Main Screen](screenshoot-2.png)
+![Main Screen](screenshot-2.png)
 
 ## Export output structure
 
