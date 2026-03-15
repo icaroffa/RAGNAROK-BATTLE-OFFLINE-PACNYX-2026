@@ -22,11 +22,6 @@ Full Custom character - MOD
 
 ![Main Screen](ezgif-2a8e0153805b1082.gif)
 
-![Main Screen](ezgif-24bd11e6e026308b.gif)
-
-
-ezgif-7b48hjfdgcaf7d110bbe0.gif
-
 
 ## Project intent
 
