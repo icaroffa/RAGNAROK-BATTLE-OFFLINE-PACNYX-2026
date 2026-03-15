@@ -8,7 +8,11 @@ This document describes a **2026 AI-assisted community patch workflow** for PACN
 
 > **AI-assisted community update, 2026**
 
+
 ---
+
+![Main Screen](ezgif-2a8e0153805b1082.gif)
+
 
 ## Project intent
 
@@ -207,6 +211,10 @@ The current build now includes a much more powerful export workflow for DAT pose
 Great modding possibilities and reallife sprite compositions-> 
 
 ![Main Screen](screenshot-7.png)
+
+
+
+
 
 
 ## Export output structure
